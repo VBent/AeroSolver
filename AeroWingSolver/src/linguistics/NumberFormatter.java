@@ -103,7 +103,7 @@ public static void main (String[] args)
 	vprint( y,i,p);
 System.out.println();
 hprint(y,i,p);
-	
+System.out.println();
 	
 }
 
